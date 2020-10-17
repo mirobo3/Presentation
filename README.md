@@ -13,8 +13,9 @@
 ---
 
 **４．どういう構成のシステムを作るか**
+![rosgraph_and_all_topic](https://user-images.githubusercontent.com/72371137/96333811-f2429f00-10a6-11eb-8638-32c6d6ce6cc9.png)
 
-
+![rosgraph_node_only](https://user-images.githubusercontent.com/72371137/96333832-2a49e200-10a7-11eb-9a51-f4d494581c12.png)
 ---
 
 **５．スケジュール**
