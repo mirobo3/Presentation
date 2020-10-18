@@ -43,5 +43,5 @@ rqt_graphだと
 **課題５**(11月13日まで） 
 - 中間発表の資料作り
 
-![設計制作論３中間スケジュール](https://user-images.githubusercontent.com/72371743/96359774-a1d44b80-1151-11eb-98cc-54ca1e90ea24.png)
+![スケジュール](https://user-images.githubusercontent.com/72371743/96360170-81a68b80-1155-11eb-8f2e-e29093208442.png)
 
