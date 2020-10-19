@@ -23,7 +23,7 @@
 
 
 
-![スクリーンショット 2020-10-19 154011](https://user-images.githubusercontent.com/72371743/96410172-6e60f200-1221-11eb-8afc-a4c38d5a681f.png)
+
 
 ---
 **５．考えられる問題**
