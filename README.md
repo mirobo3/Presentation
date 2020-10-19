@@ -21,9 +21,9 @@
 3. トランプを持ち上げる
 4. 投げる（他の動きになるかも）
 
-rqt_graphで表すと
 
-![rosgraph_and_all_topic](https://user-images.githubusercontent.com/72371137/96333811-f2429f00-10a6-11eb-8638-32c6d6ce6cc9.png)
+
+![スクリーンショット 2020-10-19 153755](https://user-images.githubusercontent.com/72371743/96409975-24780c00-1221-11eb-89ba-b93a6c8a761d.png)
 
 ---
 **５．考えられる問題**
