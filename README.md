@@ -19,7 +19,7 @@
 3. トランプを持ち上げる
 4. 投げるor離す（他の動きになるかも）
 ---
-rqt_graphだと
+rqt_graphで表すと
 
 ![rosgraph_and_all_topic](https://user-images.githubusercontent.com/72371137/96333811-f2429f00-10a6-11eb-8638-32c6d6ce6cc9.png)
 
